@@ -26,6 +26,6 @@ Botに「定期実行」や「予約投稿」などの時間制御機能を追�
 3. ツールボックスの「時間・スケジュール」カテゴリーからブロックを使用できます。
 
 ## 開発者情報
-- **Author**: EDBPlugin
+- **Author**: appipinopi
 - **Version**: 1.1.0
 - **License**: MIT
