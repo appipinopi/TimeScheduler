@@ -5,7 +5,7 @@
   "description": "Botに定期実行や予約投稿、遅延処理などの時間制御機能を追加します。",
   "affectsStyle": false,
   "affectsBlocks": true,
-  "isCustom": true,
   "repo": "https://github.com/appipinopi/TimeScheduler",
-  "uuid": "appipinopi-scheduler-001"
+  "uuid": "appipinopi-scheduler-001",
+  "minAppVersion": "1.0.0"
 }
